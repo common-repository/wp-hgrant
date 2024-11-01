@@ -1,0 +1,60 @@
+.wp-hgrant-important {
+	font-size: 16px;
+}
+
+.wp-hgrant-required {
+	color: #388004;
+	font-weight: 700;
+}
+
+.wp-hgrant-section-title {
+	font-size: 1.17em;
+	margin-bottom: 0;
+}
+
+#icon-edit.icon32.icon32-posts-hgrant_grant {
+	background: transparent url(img/icon-32x32.png) no-repeat center center;
+}
+
+.wp-hgrant-grant-template,
+.wp-hgrant-geo-area-template {
+	display: none;
+}
+
+.wp-hgrant-grant,
+.wp-hgrant-geo-area {
+	background: #ffffff;
+	border: 1px solid #cccccc;
+	margin: 10px 0;
+	padding: 10px;
+}
+
+.wp-hgrant-grant:last-child,
+.wp-hgrant-geo-area {
+	margin: 10px 0 0;
+}
+
+.wp-hgrant-geo-area-component {
+	display: block;
+}
+
+.column-wp-hgrant-grant-amount {
+	width: 100px;
+}
+
+.column-wp-hgrant-grant-id {
+	width: 100px;
+}
+
+.column-wp-hgrant-grant-start-date {
+	width: 125px;
+}
+
+.wrap-tools {
+	max-width: 675px;
+}
+
+.tools-benefits {
+	list-style: disc;
+	padding-left: 20px;
+}
